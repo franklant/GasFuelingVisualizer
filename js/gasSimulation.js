@@ -185,7 +185,3 @@ function clearScreen() {
         clearInterval(runningInterval);
     }
 }
-
-// setInterval(function() {
-//     console.log("Finished fill: " + finishedFill);
-// }, 1000/15);
