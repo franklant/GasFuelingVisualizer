@@ -105,7 +105,7 @@ function fill() {
             CONTEXT.fillRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
 
             // meter
-            CONTEXT.fillStyle = "blue";
+            CONTEXT.fillStyle = "black";
             CONTEXT.fillRect(0, CANVAS_HEIGHT - currentMeterAmount, CANVAS_WIDTH, currentMeterAmount);
 
             // scale factor for our visual representation

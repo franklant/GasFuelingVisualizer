@@ -11,6 +11,8 @@ body {
     margin: 0; /* Removes default margin */
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-color: rgb(236, 192, 112);
 }
 
 td {
