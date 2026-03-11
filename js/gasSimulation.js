@@ -186,6 +186,6 @@ function clearScreen() {
     }
 }
 
-setInterval(function() {
-    console.log("Finished fill: " + finishedFill);
-}, 1000/15);
+// setInterval(function() {
+//     console.log("Finished fill: " + finishedFill);
+// }, 1000/15);
